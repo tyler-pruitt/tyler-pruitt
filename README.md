@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 -->
-- 💻 I’m currently working on my personal website
+- 💻 I’m currently working on an iOS app
 - 🌱 I’m currently learning mobile development
 - 📫 How to reach me: [EMAIL](mailto:tylerpruitt@ucsb.edu), [LINKEDIN](https://www.linkedin.com/in/tyler-pruitt-1b8a9b16a/)
 - ⚡ Fun fact: I love learning languages and traveling
