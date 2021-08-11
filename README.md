@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m currently working on an iOS app
 - 🌱 I’m currently learning mobile development
-- 📫 How to reach me: [EMAIL](mailto:tylerpruitt@ucsb.edu), [LINKEDIN](https://www.linkedin.com/in/tyler-pruitt-1b8a9b16a/)
+- 📫 How to reach me: [EMAIL](mailto:tylerpruitt@ucsb.edu), [LINKEDIN](https://www.linkedin.com/in/tylerpruitt01/)
 - ⚡ Fun fact: I love learning languages and traveling
