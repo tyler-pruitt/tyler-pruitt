@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💻 I’m currently working on an iOS app
 - 🌱 I’m currently learning mobile development -->
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [EMAIL](mailto:tylerpruitt@ucsb.edu), [LINKEDIN](https://www.linkedin.com/in/tylerpruitt01/)
-- ⚡ Fun fact: I love learning languages and traveling
+- 📫 How to reach me: [email](mailto:tylerpruitt@ucsb.edu), [LinkedIn](https://www.linkedin.com/in/tylerpruitt01/)
+- ⚡ Fun fact: I love learning foreign languages, exploring different cultures, helping people, and traveling
