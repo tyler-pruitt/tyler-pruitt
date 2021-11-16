@@ -33,6 +33,8 @@ myself = SoftwareEngineer()
 - 🎓 I am a Physics major and Chinese (普通话) minor!
 - 🌱 I’m currently learning about mobile developement
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people, especially for foreign language learning
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 
 <!--
 - 🤔 I’m looking for help with ...
@@ -40,9 +42,6 @@ myself = SoftwareEngineer()
 - 💻 I’m currently working ...
 - 📫 How to reach me: ...
 -->
-
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 
 <!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
