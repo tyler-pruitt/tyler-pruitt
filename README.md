@@ -29,8 +29,8 @@ class SoftwareEngineer(object):
 myself = SoftwareEngineer()
 ```
 
-<a target="_blank"><img src="https://media.giphy.com/media/3o85xIAka4gHdlRt3a/giphy.gif" width="300" /></a>
-<a target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" /></a>
+<a target="_blank"><img align="left" src="https://media.giphy.com/media/3o85xIAka4gHdlRt3a/giphy.gif" width="360" height="360" /></a>
+<a target="_blank"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360" height="360" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
