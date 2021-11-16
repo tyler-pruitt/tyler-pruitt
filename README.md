@@ -7,9 +7,30 @@
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+
+class SoftwareEngineer(object):
+  def __init__(self):
+    self.name = "Tyler Pruitt"
+    self.role = "University Student"
+    self.major = "Physics"
+    self.minor = "Chinese"
+    self.graduationYear = 2022
+    self.contact = "tylerpruitt@ucsb.edu"
+    self.work = "Software Engineering"
+    self.willingToRelocate = True
+    self.learn = "Data Analysis and Processing"
+  
+  def getCity():
+    return "Santa Barbara, CA, United States"
+
+myself = SoftwareEngineer()
+```
+
 <a target="_blank"><img src="https://media.giphy.com/media/3o85xIAka4gHdlRt3a/giphy.gif" width="300" /></a>
 <a target="_blank"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500" /></a>
-<a target="_blank"><img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" width="500" /></a>
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
@@ -87,11 +108,9 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 ⭐️ From [tyler-pruitt](https://github.com/tyler-pruitt)
 
 
-
-
 <img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
-<img align="right" width="200" height="200" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
+<img align="right" width="250" height="250" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
 
 ## Languages and Tools I Use
 
@@ -134,25 +153,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 </table>
 
 <br/>
-
-
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
-class SoftwareEngineer(object):
-  def __init__(self):
-    self.name = "Tyler Pruitt"
-    self.role = "Software Engineer"
-    self.contact = "tylerpruitt@ucsb.edu"
-    self.work = "Software Engineering"
-    self.learn = "Data Analysis and Processing"
-  
-  def getCity():
-    return "Santa Barbara, CA, United States"
-
-myself = SoftwareEngineer()
-```
 
 
 [![Tyler Pruitt's github activity graph](https://activity-graph.herokuapp.com/graph?username=tyler-pruitt&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
