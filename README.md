@@ -19,7 +19,7 @@ class SoftwareEngineer(object):
     self.willingToRelocate = True
     self.learn = "Data Analysis and Processing"
   
-  def getCity():
+  def getCity(self):
     return "Santa Barbara, CA, United States"
 
 myself = SoftwareEngineer()
