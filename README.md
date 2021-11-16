@@ -1,8 +1,4 @@
 
-<a href="https://github.com/Wandrys-dev/Wandrys-dev">
-    <img width="75%" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/dev2.gif">
-</a>
-
 <h2>Hello World, I'm Tyler!</h2>
 
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
@@ -35,14 +31,18 @@ myself = SoftwareEngineer()
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am a Physics major and Chinese (普通话) minor!
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning about mobile developement
+- 👯 I’m looking to collaborate on projects that solve real world problems and help people, especially for foreign language learning
+
+<!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 💻 I’m currently working ...
+- 📫 How to reach me: ...
+-->
+
 - 😄 Pronouns: He/Him/His
-- 📫 How to reach me: [email](mailto:tylerpruitt@ucsb.edu), [LinkedIn](https://www.linkedin.com/in/tylerpruitt01/)
-- ⚡ Fun fact: I love learning foreign languages, exploring different cultures, helping people, and traveling
+- ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 
 <!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -51,59 +51,18 @@ myself = SoftwareEngineer()
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
 -->
 
-
 <!--
 I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 -->
 
-
-<img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
-
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![MATLAB](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)
-  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white")
-  ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white")
-  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-  ![SAS](https://img.shields.io/badge/-SAS-333333?style=flat&logo=sas)
-  ![R](https://img.shields.io/badge/-R-333333?style=flat&logo=r)
-  ![WEB DEVELOPMENT](https://img.shields.io/badge/-Web%20Development-333333?style=flat&logo=web%20development)
-  ![DATA SCIENCE](https://img.shields.io/badge/-Data%20Science-333333?style=flat&logo=data%20science)
-  ![Machine Learning](https://img.shields.io/badge/-ML-333333?style=flat&logo=ML)
-
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![TKINTER](https://img.shields.io/badge/-Tkinter-333333?style=flat&logo=tkinter)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![FLASK](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![SWING](https://img.shields.io/badge/-Swing-333333?style=flat&logo=Swing)
-  ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=OpenCV)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![CockroachDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqkserver)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm-code&logoColor=007ACC)
-
-<br/>
-
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="center">
-<a href="https://twitter.com/TylerPr13892730"><img alt="twitter"  src="https://logo.letskhabar.com/img/?tool=twitter" alt="Twitter profile" height="30" width="40" /></a>
+<a href="https://twitter.com/TylerPr13892730"><img alt="Twitter"  src="https://img.shields.io/badge/Twitter-Tyler_Pruitt-blue?style=flat-square&logo=twitter" /></a>
 <a href="https://www.instagram.com/_tyler_pruitt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_tyler_pruitt-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tylerpruitt@ucsb.edu"><img alt="Email" src="https://img.shields.io/badge/tylerpruitt@ucsb.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
+<a href="https://www.linkedin.com/in/tylerpruitt01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tyler_Pruitt-blue?style=flat-square&logo=linkedin"></a>
 
 ⭐️ From [tyler-pruitt](https://github.com/tyler-pruitt)
 
@@ -131,7 +90,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
-
 
 
 ## 📈 My GitHub Stats
