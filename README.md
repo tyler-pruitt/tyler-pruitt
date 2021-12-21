@@ -10,14 +10,14 @@
 class SoftwareEngineer(object):
   def __init__(self):
     self.name = "Tyler Pruitt"
-    self.role = "University Student"
+    self.role = "Undergraduate Student"
     self.major = "Physics"
     self.minor = "Chinese"
     self.graduationYear = 2022
     self.contact = "tylerpruitt@ucsb.edu"
     self.work = "Software Engineering"
     self.willingToRelocate = True
-    self.learn = "Data Analysis and Processing"
+    self.learn = "Data Structures and Algorithms"
   
   def getCity(self):
     return "Santa Barbara, CA, United States"
@@ -69,8 +69,6 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 
 
 <img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
-
-<img align="right" width="250" height="250" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/function.gif">
 
 ## Languages and Tools I Use
 
