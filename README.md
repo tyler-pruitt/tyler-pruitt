@@ -120,3 +120,5 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
   <img src="https://profile-counter.glitch.me/tyler-pruitt/count.svg" />
 </p>
 
+<div align="center"> <a href="http://www.clustrmaps.com/map/Github.com/tyler-pruitt" title="Visit tracker for Github.com/tyler-pruitt"><img src="//www.clustrmaps.com/map_v2.png?d=_9HuIBlZFysOCQchKSv6OCjr-BeCPGdagKgyPk6qRjw" /></a></div>
+
