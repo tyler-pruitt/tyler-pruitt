@@ -32,7 +32,7 @@ myself = SoftwareEngineer()
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am a Physics and Chinese (Mandarin/普通话) double major!
-- 🌱 I’m currently learning about mobile developement
+- 🌱 I’m currently learning about data structures and algorithms
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people, especially for foreign language learning
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
