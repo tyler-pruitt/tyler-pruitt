@@ -11,8 +11,7 @@ class SoftwareEngineer(object):
   def __init__(self):
     self.name = "Tyler Pruitt"
     self.role = "Undergraduate Student"
-    self.major = "Physics"
-    self.minor = "Chinese"
+    self.major = ("Physics", "Chinese")
     self.graduationYear = 2022
     self.contact = "tylerpruitt@ucsb.edu"
     self.work = "Software Engineering"
@@ -32,7 +31,7 @@ myself = SoftwareEngineer()
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 I am a Physics major and Chinese (Mandarin/普通话) minor!
+- 🎓 I am a Physics and Chinese (Mandarin/普通话) double major!
 - 🌱 I’m currently learning about mobile developement
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people, especially for foreign language learning
 - 😄 Pronouns: He/Him/His
