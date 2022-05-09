@@ -11,7 +11,7 @@ class SoftwareEngineer(object):
   def __init__(self):
     self.name = "Tyler Pruitt"
     self.role = "Undergraduate Student"
-    self.major = ("Physics", "Chinese")
+    self.major = ["Physics", "Chinese"]
     self.graduationYear = 2022
     self.contact = "tylerpruitt@ucsb.edu"
     self.work = "Software Engineering"
@@ -107,7 +107,7 @@ I love APIs, coffee, and the Oxford comma. I am a full stack mathematician worki
 <br/>
 
 
-[![Tyler Pruitt's github activity graph](https://activity-graph.herokuapp.com/graph?username=tyler-pruitt&theme=react-dark)](https://github.com/Wandrys-dev/github-readme-activity-graph)
+[![Tyler Pruitt's github activity graph](https://activity-graph.herokuapp.com/graph?username=tyler-pruitt&theme=react-dark)](https://github.com/tyler-pruitt/github-readme-activity-graph)
 
 
 <p align="center"> 
