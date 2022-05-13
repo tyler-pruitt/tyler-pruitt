@@ -11,14 +11,11 @@ class SoftwareEngineer(object):
   def __init__(self):
     self.name = "Tyler Pruitt"
     self.role = "Undergraduate Student"
-    self.major = ["Physics", "Chinese"]
+    self.degree = "Bachelor's of Science, Physics"
     self.graduationYear = 2022
     self.contact = "tylerpruitt@ucsb.edu"
-    self.work = "Software Engineering"
     self.learn = "Data Structures and Algorithms"
-  
-  def getLocation(self):
-    return "Santa Barbara, CA, United States"
+    self.languages = ["English", "Mandarin"]
 
 myself = SoftwareEngineer()
 ```
@@ -30,7 +27,7 @@ myself = SoftwareEngineer()
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 I am a Physics and Chinese (Mandarin/普通话) double major!
+- 🎓 I am a Physics and Chinese (Mandarin/普通话) minor!
 - 🌱 I’m currently learning about data structures and algorithms
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people
 - 😄 Pronouns: He/Him/His
