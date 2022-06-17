@@ -7,10 +7,10 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareEngineer(object):
+class SoftwareEngineer():
   def __init__(self):
     self.name = "Tyler Pruitt"
-    self.role = "Undergraduate Student"
+    self.role = "Backend"
     self.degree = "Bachelor's of Science, Physics"
     self.graduationYear = 2022
     self.contact = "tylerpruitt@ucsb.edu"
