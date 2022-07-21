@@ -27,7 +27,7 @@ myself = SoftwareEngineer()
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 I am a Physics and Mandarin Chinese 普通话 minor!
+- 🎓 I am a Physics and Mandarin 普通话 minor!
 - 🌱 I’m currently learning about data structures and algorithms
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people
 - 😄 Pronouns: He/Him/His
@@ -45,10 +45,6 @@ myself = SoftwareEngineer()
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
 - ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
--->
-
-<!--
-I love APIs, coffee, and the Oxford comma. I am a full stack mathematician working in Matlab and Python. I have excelled in various roles in the Software Development Life Cycle. I have always enjoyed seeing ideas come to life in my programs. I love to ship elegant code that solves real problems, and iterate based on real customer feedback. I want to write software that improves people's lives, and that supports our skills and enriches our relationships outside the virtual world.
 -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
