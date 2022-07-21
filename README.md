@@ -11,8 +11,8 @@ class SoftwareEngineer():
   def __init__(self):
     self.name = "Tyler Pruitt"
     self.role = "Backend"
-    self.degree = "Bachelor's of Science, Physics"
-    self.graduationYear = 2022
+    self.degree = "BS, Physics"
+    self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
     self.contact = "tylerpruitt@ucsb.edu"
     self.learn = "Data Structures and Algorithms"
     self.languages = ["English", "Mandarin"]
