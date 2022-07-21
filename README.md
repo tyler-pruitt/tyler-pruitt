@@ -27,7 +27,7 @@ myself = SoftwareEngineer()
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 I am a Physics and Mandarin 普通话 minor!
+- 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
 - 🌱 I’m currently learning about data structures and algorithms
 - 👯 I’m looking to collaborate on projects that solve real world problems and help people
 - 😄 Pronouns: He/Him/His
