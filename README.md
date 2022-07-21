@@ -52,11 +52,7 @@ myself = SoftwareEngineer()
 <p align="left">
 <a href="https://www.instagram.com/_tyler_pruitt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_tyler_pruitt-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tylerpruitt@ucsb.edu"><img alt="Email" src="https://img.shields.io/badge/tylerpruitt@ucsb.edu-blue?style=flat-square&logo=gmail"></a>
-</p>
 <a href="https://www.linkedin.com/in/tylerpruitt01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tyler_Pruitt-blue?style=flat-square&logo=linkedin"></a>
-
-⭐️ From [tyler-pruitt](https://github.com/tyler-pruitt)
-
 
 <img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
