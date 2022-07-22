@@ -75,8 +75,6 @@ myself = SoftwareEngineer()
 
 
 ## 📈 My GitHub Stats
-<img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=6feb09&width=500&lines=These+are+my+GitHub+stats+...">
-
 
 <table width="100%"> 
   <tr>
