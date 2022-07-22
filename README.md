@@ -4,9 +4,6 @@
 ![](https://allhacked.com/up/2019/03/hello-world.gif)
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-
 class SoftwareEngineer():
   def __init__(self):
     self.name = "Tyler Pruitt"
