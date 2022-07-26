@@ -7,7 +7,7 @@
 class SoftwareEngineer():
   def __init__(self):
     self.name = "Tyler Pruitt"
-    self.role = "Backend"
+    self.role = "Software Engineering"
     self.degree = "BS, Physics"
     self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
     self.contact = "tylerpruitt@ucsb.edu"
@@ -16,11 +16,6 @@ class SoftwareEngineer():
 
 myself = SoftwareEngineer()
 ```
-
-<!--
-<a target="_blank"><img align="left" src="https://media.giphy.com/media/3o85xIAka4gHdlRt3a/giphy.gif" width="360" height="360" /></a>
-<a target="_blank"><img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="360" height="360" /></a>
--->
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
