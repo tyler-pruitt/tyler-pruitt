@@ -48,7 +48,7 @@ myself = SoftwareEngineer()
 
 <img align="right" width="350" alt="Code" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/code.gif"/>
 
-## Languages and Tools I Use
+## My Techstack
 
 - **Python**
 - **C++**
@@ -75,9 +75,6 @@ myself = SoftwareEngineer()
     </td>
     <td width="30%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tyler-pruitt&layout=compact&langs_count=8&theme=algolia">
-    </td>
-    <td width="30%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyler-pruitt&amp;langs_count=8&amp;theme=algolia">
     </td>
   </tr>
 </table>
