@@ -17,6 +17,37 @@ class SoftwareEngineer():
 myself = SoftwareEngineer()
 ```
 
+<!--
+```cpp
+class SoftwareEngineer() {
+    private:
+        string name;
+        string role;
+        string degree;
+        vector<string> techStack;
+        string contact;
+        string learn;
+        vector<string> languages;
+    public:
+        SoftwareEngineer() {
+            name = "Tyler Pruitt";
+            role = "Software Engineering";
+            degree = "BS, Physics";
+            techStack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"};
+            contact = "tylerpruitt@ucsb.edu";
+            learn = "Data Structures and Algorithms";
+            languages = {"English", "Mandarin"};
+        }
+};
+
+int main() {
+    SoftwareEngineer myself = SoftwareEngineer();
+    
+    return 0;
+}
+```
+-->
+
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
