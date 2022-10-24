@@ -73,7 +73,6 @@ int main() {
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
 <p align="left">
-<a href="https://www.instagram.com/_tyler_pruitt/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_tyler_pruitt-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:tylerpruitt@ucsb.edu"><img alt="Email" src="https://img.shields.io/badge/tylerpruitt@ucsb.edu-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/tylerpruitt01/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Tyler_Pruitt-blue?style=flat-square&logo=linkedin"></a>
 
@@ -111,10 +110,6 @@ int main() {
 </table>
 
 <br/>
-
-
-[![Tyler Pruitt's github activity graph](https://activity-graph.herokuapp.com/graph?username=tyler-pruitt&theme=react-dark)](https://github.com/tyler-pruitt/github-readme-activity-graph)
-
 
 <p align="center"> 
   Visitors :<br>
