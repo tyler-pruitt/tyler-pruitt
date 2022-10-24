@@ -120,3 +120,22 @@ int main() {
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/tyler-pruitt/count.svg" />
 </p>
+
+## Help support open-sourced software and passion projects (anything helps!)
+
+### I am happy to accept the following crypto currencies as gifts, it is much appreciated!
+- Bitcoin (BTC) wallet address: `bc1qvljdr72k3tz6w8k6hpnhv3722fmsgftkeeakx8`
+- Ethereum (ETH) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- US Dollar Coin (USDC) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Cardano (ADA) wallet address: `addr1q8g90gwc2u82fnv6m0pw7crervtslar746rxx06apfcf44cg6h5us0avc20ee2azzun58lgylyl54sjr6y9efwq86krst57w35`
+- Solana (SOL) wallet address: `EzQveUMk45NmuftUSGLqRH8DUBmxzCpS3HuEchFc5t1X`
+- Dogecoin (DOGE) wallet address: `DQCzww2Sz9UhtAaMZbHHGofng1ioRgTkEu`
+- Polygon (MATIC) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Shiba Inu (SHIB) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Avalanche (AVAX) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Ethereum Classic (ETC) wallet address: `0x42D1125fB02D0eaAA3b0D57330EC46AaF5F95F15`
+- Uniswap (UNI) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Litecoin (LTC) wallet address: `ltc1qvwzqm4jxqt0gjf7fwzxpnvtlssxtc9lutrnxsh`
+- Chainlink (LINK) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
+- Bitcoin Cash (BCH) wallet address: `bitcoincash:qr4h4edxt5muv2ns3kls0d4ca8lezu8x9v9d4r227h`
+- Compound (COMP) wallet address: `0xDd5E232561177e5E48432F6BA4fD12173Bbe869A`
