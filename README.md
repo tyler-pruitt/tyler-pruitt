@@ -5,14 +5,14 @@
 
 ```python
 class SoftwareEngineer():
-  def __init__(self):
-    self.name = "Tyler Pruitt"
-    self.role = "Software Engineering"
-    self.degree = "BS, Physics"
-    self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
-    self.contact = "tylerpruitt@ucsb.edu"
-    self.learn = "Data Structures and Algorithms"
-    self.languages = ["English", "Mandarin"]
+    def __init__(self):
+        self.name = "Tyler Pruitt"
+        self.role = "Software Engineering"
+        self.degree = "BS, Physics"
+        self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
+        self.contact = "tylerpruitt@ucsb.edu"
+        self.learn = "Data Structures and Algorithms"
+        self.languages = ["English", "Mandarin"]
 
 myself = SoftwareEngineer()
 ```
