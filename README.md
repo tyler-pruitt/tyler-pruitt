@@ -1,8 +1,6 @@
 
 <h2>Hello World, I'm Tyler!</h2>
 
-![](https://allhacked.com/up/2019/03/hello-world.gif)
-
 ```python
 class SoftwareEngineer():
     def __init__(self):
