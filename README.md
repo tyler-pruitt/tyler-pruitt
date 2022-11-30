@@ -46,8 +46,8 @@ int main() {
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
-- 🌱 I’m currently learning about computational finance and backend
-- 👯 I’m looking to collaborate on projects related to quantitative finance
+- 🌱 I’m currently learning about computational finance, automation, testing and backend
+- 👯 I’m looking to collaborate on projects related to quantitative finance, automation, and transportation, among other things
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 
