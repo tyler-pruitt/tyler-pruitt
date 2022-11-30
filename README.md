@@ -9,7 +9,6 @@ class SoftwareEngineer():
         self.degree = "BS, Physics"
         self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
         self.contact = "tylerpruitt@ucsb.edu"
-        self.learn = "Data Structures and Algorithms"
         self.languages = ["English", "Mandarin"]
 
 myself = SoftwareEngineer()
@@ -24,7 +23,6 @@ class SoftwareEngineer() {
         string degree;
         vector<string> techStack;
         string contact;
-        string learn;
         vector<string> languages;
     public:
         SoftwareEngineer() {
@@ -33,7 +31,6 @@ class SoftwareEngineer() {
             degree = "BS, Physics";
             techStack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"};
             contact = "tylerpruitt@ucsb.edu";
-            learn = "Data Structures and Algorithms";
             languages = {"English", "Mandarin"};
         }
 };
@@ -49,8 +46,8 @@ int main() {
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
-- 🌱 I’m currently learning about data structures and algorithms
-- 👯 I’m looking to collaborate on projects that solve real world problems and help people
+- 🌱 I’m currently learning about computational finance and backend
+- 👯 I’m looking to collaborate on projects related to quantitative finance
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 
@@ -59,9 +56,6 @@ int main() {
 - 💬 Ask me about ...
 - 💻 I’m currently working ...
 - 📫 How to reach me: ...
--->
-
-<!--
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
 - 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
