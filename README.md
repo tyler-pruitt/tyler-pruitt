@@ -7,7 +7,7 @@ class SoftwareEngineer():
         self.name = "Tyler Pruitt"
         self.role = "Software Engineering"
         self.degree = "BS, Physics"
-        self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"]
+        self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
@@ -29,7 +29,7 @@ class SoftwareEngineer() {
             name = "Tyler Pruitt";
             role = "Software Engineering";
             degree = "BS, Physics";
-            techStack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript", "HTML", "CSS"};
+            techStack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"};
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
