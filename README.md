@@ -7,7 +7,7 @@ class SoftwareEngineer():
         self.name = "Tyler Pruitt"
         self.role = "Software Engineering"
         self.degree = "BS, Physics"
-        self.techStack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"]
+        self.tech_stack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
@@ -21,7 +21,7 @@ class SoftwareEngineer() {
         string name;
         string role;
         string degree;
-        vector<string> techStack;
+        vector<string> tech_stack;
         string contact;
         vector<string> languages;
     public:
@@ -29,7 +29,7 @@ class SoftwareEngineer() {
             name = "Tyler Pruitt";
             role = "Software Engineering";
             degree = "BS, Physics";
-            techStack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"};
+            tech_stack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"};
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
