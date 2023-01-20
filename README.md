@@ -78,8 +78,6 @@ int main() {
 - **MySQL**
 - **SQL**
 - **JavaScript**
-- **HTML**
-- **CSS**
 - **Jupyter NoteBook**
 - **Git**
 - **GitHub**
