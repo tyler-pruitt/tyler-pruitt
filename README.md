@@ -5,7 +5,7 @@
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
-        self.role = "Database and API"
+        self.role = "Database design and API development"
         self.degree = "BS, Physics"
         self.tech_stack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"]
         self.contact = "tylerpruitt@ucsb.edu"
@@ -27,7 +27,7 @@ class SoftwareEngineer() {
     public:
         SoftwareEngineer() {
             name = "Tyler Pruitt";
-            role = "Database and API";
+            role = "Database design and API development";
             degree = "BS, Physics";
             tech_stack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"};
             contact = "tylerpruitt@ucsb.edu";
