@@ -1,35 +1,32 @@
 
 <h2>Hello World, I'm Tyler!</h2>
 
+<!--
 ```python
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
         self.role = "Database design and API development"
         self.degree = "BS, Physics"
-        self.tech_stack = ["Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"]
+        self.tech_stack = ["Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
 myself = SoftwareEngineer()
 ```
+-->
 
-<!--
 ```cpp
 class SoftwareEngineer() {
-    private:
-        string name;
-        string role;
-        string degree;
-        vector<string> tech_stack;
-        string contact;
-        vector<string> languages;
     public:
+        string name, role, degree, contact;
+        vector<string> tech_stack, languages;
+        
         SoftwareEngineer() {
             name = "Tyler Pruitt";
             role = "Database design and API development";
             degree = "BS, Physics";
-            tech_stack = {"Python", "C++", "SQL", "MySQL", "Matlab", "JavaScript"};
+            tech_stack = {"Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"};
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
@@ -41,7 +38,6 @@ int main() {
     return 0;
 }
 ```
--->
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
