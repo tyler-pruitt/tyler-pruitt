@@ -3,6 +3,7 @@
 
 <!--
 ```python
+# Python
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
@@ -17,6 +18,7 @@ myself = SoftwareEngineer()
 -->
 
 ```cpp
+// C++
 class SoftwareEngineer() {
     public:
         string name, role, degree, contact;
