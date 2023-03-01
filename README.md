@@ -72,6 +72,7 @@ int main() {
 
 - **Python**
 - **C++**
+- **C#**
 - **MATLAB**
 - **MySQL**
 - **SQL**
