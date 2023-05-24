@@ -44,10 +44,12 @@ int main() {
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
-- 🌱 I’m currently learning about computational finance, automation, testing and backend
+- 🌱 I’m currently learning about computational finance, automation, AI/ML, and backend
 - 👯 I’m looking to collaborate on projects related to quantitative finance, automation, and transportation, among other things
+- 💬 Ask me about investing, Studio Ghibli, and my favorite things to eat
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
+- 📫 How to reach me: (email: tylerpruitt@ucsb.edu)
 
 <!--
 - 🤔 I’m looking for help with ...
