@@ -7,7 +7,7 @@
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
-        self.role = "Backend and AI/ML"
+        self.role = ["Fullstack", "Backend", "AI/ML"]
         self.degree = "BS, Physics"
         self.tech_stack = ["Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"]
         self.contact = "tylerpruitt@ucsb.edu"
@@ -21,12 +21,12 @@ myself = SoftwareEngineer()
 // C++
 class SoftwareEngineer {
     public:
-        string name, role, degree, contact;
-        vector<string> tech_stack, languages;
+        string name, degree, contact;
+        vector<string> role, tech_stack, languages;
         
         SoftwareEngineer() {
             name = "Tyler Pruitt";
-            role = "Backend and AI/ML";
+            role = {"Fullstack", "Backend", "AI/ML"};
             degree = "BS, Physics";
             tech_stack = {"Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"};
             contact = "tylerpruitt@ucsb.edu";
