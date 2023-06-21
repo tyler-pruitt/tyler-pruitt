@@ -75,10 +75,14 @@ int main() {
 - **Python**
 - **C++**
 - **C#**
+- **.NET**
 - **MATLAB**
 - **MySQL**
 - **SQL**
+- **TypeScript**
 - **JavaScript**
+- **HTML**
+- **CSS**
 - **Jupyter NoteBook**
 - **Git**
 - **GitHub**
