@@ -9,7 +9,7 @@ class SoftwareEngineer():
         self.name = "Tyler Pruitt"
         self.role = ["Fullstack", "Backend", "AI/ML"]
         self.degree = "BS, Physics"
-        self.tech_stack = ["Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"]
+        self.tech_stack = ["Python", "C++", "C#", "Matlab", "SQL", "MySQL", "TypeScript"]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
@@ -28,7 +28,7 @@ class SoftwareEngineer {
             name = "Tyler Pruitt";
             role = {"Fullstack", "Backend", "AI/ML"};
             degree = "BS, Physics";
-            tech_stack = {"Python", "C++", "C#", "Matlab", "SQL", "MySQL", "JavaScript"};
+            tech_stack = {"Python", "C++", "C#", "Matlab", "SQL", "MySQL", "TypeScript"};
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
@@ -77,18 +77,24 @@ int main() {
 - **C#**
 - **.NET**
 - **MATLAB**
-- **MySQL**
 - **SQL**
+- **MySQL**
+- **PostgreSQL**
 - **TypeScript**
-- **JavaScript**
 - **HTML**
 - **CSS**
 - **Jupyter NoteBook**
 - **Git**
 - **GitHub**
+- **Bitbucket**
 - **Spyder**
 - **Markdown**
+- **Visual Studio Code**
 - **Visual Studio**
+- **Azure Data Studio**
+- **MS SQL Server**
+- **AWS**
+- **Postico**
 
 
 ## 📈 My GitHub Stats
