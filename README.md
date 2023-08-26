@@ -9,7 +9,7 @@ class SoftwareEngineer():
         self.name = "Tyler Pruitt"
         self.role = ["Fullstack", "Backend", "AI/ML"]
         self.degree = "BS, Physics"
-        self.tech_stack = ["Python", "C++", "C#", "Matlab", "SQL", "MySQL", "TypeScript"]
+        self.tech_stack = ["Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL", "MySQL", "HTML", "SCSS"]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
@@ -28,7 +28,7 @@ class SoftwareEngineer {
             name = "Tyler Pruitt";
             role = {"Fullstack", "Backend", "AI/ML"};
             degree = "BS, Physics";
-            tech_stack = {"Python", "C++", "C#", "Matlab", "SQL", "MySQL", "TypeScript"};
+            tech_stack = {"Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL", "MySQL", "HTML", "SCSS"};
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
@@ -75,14 +75,19 @@ int main() {
 - **Python**
 - **C++**
 - **C#**
+- **JavaScript/TypeScript**
 - **.NET**
 - **MATLAB**
 - **SQL**
 - **MySQL**
 - **PostgreSQL**
-- **TypeScript**
 - **HTML**
 - **CSS**
+- **SCSS**
+- **Flask**
+- **AngularJS**
+- **React**
+- **Node.js**
 - **Jupyter NoteBook**
 - **Git**
 - **GitHub**
@@ -95,6 +100,7 @@ int main() {
 - **MS SQL Server**
 - **AWS**
 - **Postico**
+- **Docker**
 
 
 ## 📈 My GitHub Stats
