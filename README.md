@@ -7,7 +7,7 @@
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
-        self.role = ["Fullstack", "Backend", "AI/ML"]
+        self.role = ["Fullstack", "Backend"]
         self.degree = "BS, Physics"
         self.tech_stack = ["Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL", "MySQL", "HTML", "SCSS"]
         self.contact = "tylerpruitt@ucsb.edu"
@@ -26,7 +26,7 @@ class SoftwareEngineer {
         
         SoftwareEngineer() {
             name = "Tyler Pruitt";
-            role = {"Fullstack", "Backend", "AI/ML"};
+            role = {"Fullstack", "Backend"};
             degree = "BS, Physics";
             tech_stack = {"Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL", "MySQL", "HTML", "SCSS"};
             contact = "tylerpruitt@ucsb.edu";
@@ -44,7 +44,7 @@ int main() {
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
-- 🌱 I’m currently learning about computational finance, automation, AI/ML, and backend
+- 🌱 I’m currently learning about computational finance, automation, and backend
 - 💬 Ask me about investing, Studio Ghibli, and my favorite things to eat
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
