@@ -72,27 +72,33 @@ int main() {
 
 ## My Techstack
 
+### Languages
 - **Python**
 - **C++**
 - **C#**
 - **JavaScript/TypeScript**
-- **.NET**
 - **MATLAB**
 - **SQL**
 - **MySQL**
 - **PostgreSQL**
 - **HTML**
-- **CSS**
-- **SCSS**
+- **CSS/SCSS**
+
+### Frameworks
+- **.NET**
 - **Flask**
 - **AngularJS**
 - **React**
 - **Node.js**
-- **Jupyter NoteBook**
+
+### Version Control and Hosting
 - **Git**
 - **GitHub**
 - **Bitbucket**
+
+### Tools
 - **Spyder**
+- **Jupyter NoteBook**
 - **Markdown**
 - **Visual Studio Code**
 - **Visual Studio**
