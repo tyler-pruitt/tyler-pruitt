@@ -87,6 +87,11 @@ int main() {
 ### Frameworks
 - **.NET**
 - **Flask**
+- **NumPy**
+- **Pandas**
+- **SciPy**
+- **Tensorflow**
+- **PyTorch**
 - **AngularJS**
 - **React**
 - **Node.js**
