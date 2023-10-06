@@ -90,6 +90,7 @@ int main() {
 - **NumPy**
 - **Pandas**
 - **SciPy**
+- **Matplotlib**
 - **Tensorflow**
 - **PyTorch**
 - **AngularJS**
