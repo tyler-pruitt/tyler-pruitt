@@ -9,7 +9,16 @@ class SoftwareEngineer():
         self.name = "Tyler Pruitt"
         self.role = ["Fullstack", "Backend"]
         self.degree = "BS, Physics"
-        self.tech_stack = ["Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL/MySQL", "HTML", "CSS/SCSS"]
+        self.tech_stack = [
+            "Python",
+            "C++", 
+            "C#",
+            "JavaScript/TypeScript",
+            "MATLAB",
+            "SQL/MySQL",
+            "HTML",
+            "CSS/SCSS"
+        ]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
 
@@ -28,7 +37,16 @@ class SoftwareEngineer {
             name = "Tyler Pruitt";
             role = {"Fullstack", "Backend"};
             degree = "BS, Physics";
-            tech_stack = {"Python", "C++", "C#", "JavaScript/TypeScript", "Matlab", "SQL/MySQL", "HTML", "CSS/SCSS"};
+            tech_stack = {
+                "Python",
+                "C++",
+                "C#",
+                "JavaScript/TypeScript",
+                "MATLAB",
+                "SQL/MySQL",
+                "HTML",
+                "CSS/SCSS"
+            };
             contact = "tylerpruitt@ucsb.edu";
             languages = {"English", "Mandarin"};
         }
