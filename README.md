@@ -7,7 +7,7 @@
 class SoftwareEngineer():
     def __init__(self):
         self.name = "Tyler Pruitt"
-        self.role = ["Fullstack", "Backend"]
+        self.role = ["Backend", "Fullstack"]
         self.degree = "BS, Physics"
         self.tech_stack = [
             "Python",
@@ -35,7 +35,7 @@ class SoftwareEngineer {
         
         SoftwareEngineer() {
             name = "Tyler Pruitt";
-            role = {"Fullstack", "Backend"};
+            role = {"Backend", "Fullstack"};
             degree = "BS, Physics";
             tech_stack = {
                 "Python",
