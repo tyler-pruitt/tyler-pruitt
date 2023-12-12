@@ -62,7 +62,7 @@ int main() {
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
 - 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
-- 🌱 I’m currently learning about computational finance, automation, and backend
+- 🌱 I’m currently learning about computational finance
 - 💬 Ask me about investing, Studio Ghibli, and my favorite things to eat
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
