@@ -61,24 +61,14 @@ int main() {
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
 
-- 🎓 I am have a degree in physics and a minor in Mandarin 普通话!
+- 🎓 I am have a bachelor's degree in physics and a minor in Chinese
+- 💻 I’m currently working as a software engineer at Santa Barbara Imaging Systems
 - 🌱 I’m currently learning about computational finance
 - 💬 Ask me about investing, Studio Ghibli, and my favorite things to eat
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 - 📫 How to reach me: (email: tylerpruitt@ucsb.edu)
-
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 💻 I’m currently working ...
-- 📫 How to reach me: ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate Programmer, Matlab Developer, problem solving Skills and a Competitive Programmer.
-- 🌱 &nbsp; Learning more about Web Development, Database Management System, SQL and Familier with Data Science & ML.
-- ✍️ &nbsp; Participation on Different Levels Innovation Cell Projects, etc.
--->
+- 🌖 My organization, Electric Moon Trading Company, is looking for developers (all kinds) to contribute to its projects. Please reach out if you are interested.
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
@@ -105,6 +95,7 @@ int main() {
 ### Frameworks
 - **.NET**
 - **Flask**
+- **Pytest**
 - **NumPy**
 - **Pandas**
 - **SciPy**
@@ -114,6 +105,8 @@ int main() {
 - **AngularJS**
 - **React**
 - **Node.js**
+- **Qt**
+- **Boost**
 
 ### Version Control and Hosting
 - **Git**
