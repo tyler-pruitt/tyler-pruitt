@@ -53,7 +53,7 @@ class SoftwareEngineer {
 };
 
 int main() {
-    SoftwareEngineer myself = SoftwareEngineer();
+    SoftwareEngineer myself;
     
     return 0;
 }
