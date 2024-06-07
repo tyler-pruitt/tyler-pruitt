@@ -21,8 +21,6 @@ class SoftwareEngineer():
         ]
         self.contact = "tylerpruitt@ucsb.edu"
         self.languages = ["English", "Mandarin"]
-
-myself = SoftwareEngineer()
 ```
 -->
 
@@ -51,12 +49,6 @@ class SoftwareEngineer {
             languages = {"English", "Mandarin"};
         }
 };
-
-int main() {
-    SoftwareEngineer myself;
-    
-    return 0;
-}
 ```
 
 <h3> 👨🏻‍💻 &nbsp;About Me</h3>
