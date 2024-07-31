@@ -55,7 +55,7 @@ class SoftwareEngineer {
 
 - 🎓 I am have a bachelor's degree in physics and a minor in Chinese
 - 💻 I’m currently working as a software engineer at Santa Barbara Imaging Systems
-- 🌱 I’m currently learning about computational finance
+- 🌱 I’m currently learning about quantitative trading and alpha generation
 - 💬 Ask me about investing, Studio Ghibli, and my favorite things to eat
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
@@ -104,6 +104,7 @@ class SoftwareEngineer {
 - **Git**
 - **GitHub**
 - **Bitbucket**
+- **GitKraken**
 
 ### Tools
 - **Spyder**
