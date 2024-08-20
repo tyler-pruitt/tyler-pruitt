@@ -60,7 +60,7 @@ class SoftwareEngineer {
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love learning foreign languages, exploring different cultures, and traveling
 - 📫 How to reach me: (email: tylerpruitt@ucsb.edu)
-- 🌖 My organization, Electric Moon, is looking for developers (all kinds) to contribute to its projects. Please reach out if you are interested.
+- 🌖 My organization, Electric Moon, is looking for developers (all kinds) to contribute to its projects. Please reach out to me if you are interested.
 
 <h3> 🤝🏻 &nbsp;Connect with Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"> </h3>
 
